@@ -48,7 +48,7 @@
   font-family: _latoreg;
   src: url("fonts/Roboto-Medium.ttf"); }
 @font-face {
-  font-family: _nunito_semibold;
+  font-family: _nuni;
   src: url("fonts/Nunito-SemiBold.ttf"); }
 
 body {
@@ -126,7 +126,7 @@ subheader a {
   color: #52658f; }
 
 section {
-  font-family: nunito_semibold;
+  font-family: nuni;
   font-size: 14pt;
   margin-top: 30px;
   display: block;
