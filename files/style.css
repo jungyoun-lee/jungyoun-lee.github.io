@@ -102,10 +102,12 @@ topheader {
 subheader {
   font-family: _sf;
   color: #52658f;
+  line-height: 1.6;
   display: block; }
 
 subheader a {
   font-family: _sf;
+  line-height: 1.6;
   color: #52658f; }
 
 .subheadercolor {
