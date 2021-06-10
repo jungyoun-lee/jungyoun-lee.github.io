@@ -124,15 +124,16 @@ subheader a {
 
 section {
   font-family: _sf;
-  font-size: 18pt;
+  font-size: 16pt;
   margin-top: 30px;
   display: block;
-  line-height: 1.2;
+  line-height: 1.3;
   color: #444; }
 
 subsection {
   font-family: _sf;
-  font-size: 16pt; }
+  line-height: 1.3;
+  font-size: 14pt; }
 
 papertitle {
   font-family: _sf;
