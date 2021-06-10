@@ -100,10 +100,10 @@ sfx {
 
 topheader {
   font-family: _latoreg;
-  font-size: 20pt;
+  font-size: 22pt;
   display: block;
-  margin-top: 0px;
-  margin-bottom: 0px;
+  margin-top: 1px;
+  margin-bottom: 1px;
   color: #453354; }
 
 subheader {
