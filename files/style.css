@@ -107,14 +107,14 @@ topheader {
   color: #453354; }
 
 subheader {
-  font-family: _sf;
+  font-family: _rm;
   color: #52658f;
   font-size: 16px;
   line-height: 1.4;
   display: block; }
 
 subheader a {
-  font-family: _sf;
+  font-family: _rm;
   line-height: 1.4;
   font-size: 16px;
   color: #52658f; }
