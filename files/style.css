@@ -102,20 +102,20 @@ topheader {
   font-family: _latoreg;
   font-size: 20pt;
   display: block;
-  margin-top: 1px;
-  margin-bottom: 12px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   color: #453354; }
 
 subheader {
   font-family: _sf;
   color: #52658f;
   font-size: 14pt;
-  line-height: 1.3;
+  line-height: 1.4;
   display: block; }
 
 subheader a {
   font-family: _sf;
-  line-height: 1.3;
+  line-height: 1.4;
   font-size: 14pt;
   color: #52658f; }
 
@@ -127,12 +127,12 @@ section {
   font-size: 14pt;
   margin-top: 30px;
   display: block;
-  line-height: 1.3;
+  line-height: 1.4;
   color: #444; }
 
 subsection {
   font-family: _sf;
-  line-height: 1.3;
+  line-height: 1.4;
   font-size: 12pt; }
 
 papertitle {
