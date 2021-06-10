@@ -100,7 +100,7 @@ sfx {
 
 topheader {
   font-family: _latoreg;
-  font-size: 28pt;
+  font-size: 20pt;
   display: block;
   margin-top: 1px;
   margin-bottom: 12px;
@@ -109,14 +109,14 @@ topheader {
 subheader {
   font-family: _sf;
   color: #52658f;
-  font-size: 18pt;
+  font-size: 14pt;
   line-height: 1.3;
   display: block; }
 
 subheader a {
   font-family: _sf;
   line-height: 1.3;
-  font-size: 18pt;
+  font-size: 14pt;
   color: #52658f; }
 
 .subheadercolor {
@@ -124,7 +124,7 @@ subheader a {
 
 section {
   font-family: _sf;
-  font-size: 16pt;
+  font-size: 14pt;
   margin-top: 30px;
   display: block;
   line-height: 1.3;
@@ -133,11 +133,11 @@ section {
 subsection {
   font-family: _sf;
   line-height: 1.3;
-  font-size: 14pt; }
+  font-size: 12pt; }
 
 papertitle {
   font-family: _sf;
-  font-size: 14pt;
+  font-size: 12pt;
   color: #453354; }
 
 paperinfo {
