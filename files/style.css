@@ -126,13 +126,13 @@ subheader a {
 section {
   font-family: _sf;
   font-size: 18px;
-  margin-top: 15px;
   display: block;
   line-height: 1.4;
   color: #444; }
 
 subsection {
   font-family: _sf;
+  margin-top: 15px;
   line-height: 1.4;
   font-size: 18px; }
 
