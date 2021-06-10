@@ -127,20 +127,20 @@ subheader a {
   color: #52658f; }
 
 section {
-  font-family: _sf;
+  font-family: _nuni;
   font-size: 20px;
   display: block;
   line-height: 1.4;
   color: #444; }
 
 subsection {
-  font-family: _sf;
+  font-family: _nuni;
   margin-top: 15px;
   line-height: 1.4;
   font-size: 18px; }
 
 papertitle {
-  font-family: _sf;
+  font-family: _nuni;
   font-size: 17px;
   line-height: 1.4;
   color: #453354; }
