@@ -41,6 +41,10 @@
 @font-face {
   font-family: _sfx;
   src: url("fonts/cmunsx.ttf"); }
+@font-face {
+  font-family: _bsr;
+  src: url("fonts/cmunbsr.ttf"); }
+
 body {
   font-family: _rm, serif;
   font-size: 13pt;
@@ -92,7 +96,7 @@ sfx {
   font-family: _sfx; }
 
 topheader {
-  font-family: _sfx;
+  font-family: _bsr;
   font-size: 32pt;
   display: block;
   margin-top: 8px;
