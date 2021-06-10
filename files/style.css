@@ -114,7 +114,8 @@ subheader {
 
 subheader a {
   font-family: _sf;
-  line-height: 1.6;
+  line-height: 1.3;
+  font-size: 18pt;
   color: #52658f; }
 
 .subheadercolor {
