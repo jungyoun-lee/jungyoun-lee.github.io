@@ -124,7 +124,7 @@ subheader a {
 
 section {
   font-family: _sf;
-  font-size: 12pt;
+  font-size: 14pt;
   margin-top: 30px;
   display: block;
   line-height: 1.4;
@@ -137,7 +137,7 @@ subsection {
 
 papertitle {
   font-family: _sf;
-  font-size: 12pt;
+  font-size: 11pt;
   color: #453354; }
 
 paperinfo {
