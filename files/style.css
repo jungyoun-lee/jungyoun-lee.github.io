@@ -44,6 +44,9 @@
 @font-face {
   font-family: _bsr;
   src: url("fonts/cmunbsr.ttf"); }
+@font-face {
+  font-family: _latoreg;
+  src: url("fonts/Lato-Regular.ttf"); }
 
 body {
   font-family: _rm, serif;
@@ -96,10 +99,10 @@ sfx {
   font-family: _sfx; }
 
 topheader {
-  font-family: _bsr;
-  font-size: 32pt;
+  font-family: _latoreg;
+  font-size: 28pt;
   display: block;
-  margin-top: 8px;
+  margin-top: 1px;
   margin-bottom: 12px;
   color: #453354; }
 
