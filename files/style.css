@@ -100,9 +100,9 @@ sfx {
 
 topheader {
   font-family: _sf;
-  font-size: 22pt;
+  font-size: 30px;
   display: block;
-  margin-top: 1px;
+  margin-top: 0px;
   margin-bottom: 11px;
   color: #453354; }
 
