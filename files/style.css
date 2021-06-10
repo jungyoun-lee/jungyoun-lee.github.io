@@ -48,6 +48,24 @@
   font-family: _nuni;
   src: url("fonts/Nunito-SemiBold.ttf"); }
 
+rm {
+  font-family: _rm; }
+
+bf {
+  font-family: _bf; }
+
+it {
+  font-family: _it; }
+
+sf {
+  font-family: _sf; }
+
+sfx {
+  font-family: _sfx; }
+
+nuni {
+  font-family: _nuni; }
+
 body {
   font-family: _rm, serif;
   font-size: 13pt;
@@ -82,24 +100,6 @@ a {
 
 a:hover {
   text-decoration: underline; }
-
-rm {
-  font-family: _rm; }
-
-bf {
-  font-family: _bf; }
-
-it {
-  font-family: _it; }
-
-sf {
-  font-family: _sf; }
-
-sfx {
-  font-family: _sfx; }
-
-nuni {
-  font-family: _nuni; }
 
 topheader {
   font-family: _nuni;
