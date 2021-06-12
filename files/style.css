@@ -94,6 +94,10 @@ thead {
   font-size: 15px;
   color: #3aafa9; }
 
+.weblink{
+  font-family: _sf;
+}
+
 a {
   color: #586c8c;
   text-decoration: none; }
