@@ -114,6 +114,7 @@ thead {
 a {
   font-family: _nunireg;
   color: #586c8c;
+  font-size: 13pt; 
   text-decoration: none; }
 
 a:hover {
