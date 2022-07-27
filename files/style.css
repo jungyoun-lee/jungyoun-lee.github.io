@@ -50,9 +50,9 @@
 @font-face {
   font-family: _nunireg;
   src: url("fonts/Nunito-Regular.ttf"); }
-
-
-
+@font-face {
+  font-family: _nuniitalic;
+  src: url("fonts/Nunito-Italic.ttf"); }
 
 rm {
   font-family: _rm; }
@@ -148,7 +148,13 @@ subsection {
 
 papertitle {
   font-family: _nunireg;
-  font-size: 17px;
+  font-size: 13pt;
+  line-height: 1.4;
+  color: #453354; }
+
+journal {
+  font-family: _nuniitalic;
+  font-size: 13pt;
   line-height: 1.4;
   color: #453354; }
 
