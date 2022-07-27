@@ -67,12 +67,20 @@ nuni {
   font-family: _nuni; }
 
 body {
-  font-family: _sf;
+  font-family: _rm;
   font-size: 13pt;
   padding-top: 30px;
   padding-bottom: 30px;
   padding-left: 60px;
   padding-right: 60px; }
+
+
+subheader {
+  font-family: _rm;
+  color: #52658f;
+  font-size: 13pt;
+  line-height: 1.4;
+  display: block; }
 
 table {
   font-family: _rm, serif;
@@ -119,12 +127,6 @@ subheader {
   font-size: 16px;
   line-height: 1.4;
   display: block; }
-
-subheader a {
-  font-family: _rm;
-  line-height: 1.4;
-  font-size: 16px;
-  color: #52658f; }
 
 .subheadercolor {
   color: #52658f; }
