@@ -75,14 +75,14 @@ body {
   padding-right: 60px; }
 
 subheader {
-  font-family: _rm;
+  font-family: _nuni;
   color: #52658f;
   font-size: 13pt;
   line-height: 1.4;
   display: block; }
 
 table {
-  font-family: _rm, serif;
+  font-family: _nuni, serif;
   font-size: 13pt; }
 
 td {
@@ -92,17 +92,17 @@ thead {
   font-family: _nuni; }
 
 .pdflink {
-  font-family: _sf;
+  font-family: _nuni;
   font-size: 15px;
   color: #3aafa9; }
 
 .ssrnlink {
-  font-family: _rm;
+  font-family: _nuni;
   font-size: 15px;
   color: #3aafa9; }
 
 .weblink{
-  font-family: _rm; }
+  font-family: _nuni; }
 
 a {
   color: #586c8c;
@@ -121,7 +121,7 @@ topheader {
   color: #453354; }
 
 subheader {
-  font-family: _rm;
+  font-family: _nuni;
   color: #52658f;
   font-size: 16px;
   line-height: 1.4;
