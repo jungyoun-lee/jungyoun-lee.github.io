@@ -82,7 +82,7 @@ subheader {
   display: block; }
 
 table {
-  font-family: _nuni, serif;
+  font-family: _nuni;
   font-size: 13pt; }
 
 td {
@@ -105,10 +105,12 @@ thead {
   font-family: _nuni; }
 
 a {
+  font-family: _nuni;
   color: #586c8c;
   text-decoration: none; }
 
 a:hover {
+  font-family: _nuni;
   text-decoration: underline; }
 
 topheader {
