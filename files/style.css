@@ -47,6 +47,12 @@
 @font-face {
   font-family: _nuni;
   src: url("fonts/Nunito-SemiBold.ttf"); }
+@font-face {
+  font-family: _nunireg;
+  src: url("fonts/Nunito-Regular.ttf"); }
+
+
+
 
 rm {
   font-family: _rm; }
@@ -67,7 +73,7 @@ nuni {
   font-family: _nuni; }
 
 body {
-  font-family: _nuni;
+  font-family: _nunireg;
   font-size: 13pt;
   padding-top: 30px;
   padding-bottom: 30px;
@@ -93,12 +99,12 @@ thead {
   font-family: _nuni; }
 
 .pdflink {
-  font-family: _nuni;
+  font-family: _nunireg;
   font-size: 15px;
   color: #3aafa9; }
 
 .ssrnlink {
-  font-family: _nuni;
+  font-family: _nunireg;
   font-size: 15px;
   color: #3aafa9; }
 
@@ -106,12 +112,12 @@ thead {
   font-family: _nuni; }
 
 a {
-  font-family: _nuni;
+  font-family: _nunireg;
   color: #586c8c;
   text-decoration: none; }
 
 a:hover {
-  font-family: _nuni;
+  font-family: _nunireg;
   text-decoration: underline; }
 
 topheader {
