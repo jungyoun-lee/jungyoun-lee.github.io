@@ -127,7 +127,7 @@ subheader {
   font-family: _nunilite;
   color: #000000;
   font-size: 12pt;
-  line-height: 1.1;
+  line-height: 1.2;
   display: block; }
 
 section {
@@ -151,7 +151,7 @@ papertitle {
 
 journal {
   font-family: _nuniitalic;
-  font-size: 11pt;
+  font-size: 12pt;
   line-height: 1.4;
   color: #453354; }
 
