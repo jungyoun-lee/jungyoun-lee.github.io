@@ -155,17 +155,19 @@ subsection {
 papertitle {
   font-family: _latolite;
   font-size: 12pt;
-  line-height: 1.4;
+  line-height: 1.2;
   color: #453354; }
 
 journal {
   font-family: _latolite;
   font-size: 12pt;
+  line-height: 1.2;
   color: #000000; }
 
 maintext {
   font-family: _latolite;
   font-size: 12pt;
+  line-height: 1.2;
   color: #000000; }
 
 paperinfo {
