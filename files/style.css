@@ -53,6 +53,10 @@
 @font-face {
   font-family: _nuniitalic;
   src: url("fonts/Nunito-Italic.ttf"); }
+@font-face {
+  font-family: _nunilite;
+  src: url("fonts/Nunito-Light.ttf"); }
+
 
 rm {
   font-family: _rm; }
@@ -73,7 +77,7 @@ nuni {
   font-family: _nuni; }
 
 body {
-  font-family: _nunireg;
+  font-family: _nunilite;
   font-size: 11pt;
   padding-top: 30px;
   padding-bottom: 30px;
@@ -120,7 +124,7 @@ topheader {
   color: #453354; }
 
 subheader {
-  font-family: _nunireg;
+  font-family: _nunilite;
   color: #000000;
   font-size: 11pt;
   line-height: 1.4;
