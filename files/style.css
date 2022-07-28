@@ -116,7 +116,7 @@ a {
 
 topheader {
   font-family: _nuni;
-  font-size: 16pt;
+  font-size: 18pt;
   display: block;
   margin-top: 0px;
   margin-bottom: 11px;
@@ -158,7 +158,6 @@ main {
   font-family: _nunilite;
   font-size: 12pt;
   color: #000000; }
-
 
 paperinfo {
   color: #333; }
