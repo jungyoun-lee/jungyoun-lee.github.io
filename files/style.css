@@ -106,7 +106,7 @@ thead {
   color: #3aafa9; }
 
 .weblink{
-  font-family: _nuni; }
+  font-family: _nunireg; }
 
 a {
   font-family: _nunireg;
@@ -144,7 +144,7 @@ subsection {
   font-size: 18px; }
 
 papertitle {
-  font-family: _nunireg;
+  font-family: _nunilite;
   font-size: 12pt;
   line-height: 1.4;
   color: #453354; }
