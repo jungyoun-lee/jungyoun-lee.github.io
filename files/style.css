@@ -61,7 +61,7 @@
   font-family: _latoreg;
   src: url("fonts/Lato-Regular.ttf"); }
 @font-face {
-  font-family: _latolite;
+  font-family: _latoreg;
   src: url("fonts/Lato-Light.ttf"); }
 @font-face {
   font-family: _latobold;
@@ -86,7 +86,7 @@ nuni {
   font-family: _nuni; }
 
 body {
-  font-family: _latolite;
+  font-family: _latoreg;
   font-size: 12pt;
   padding-top: 30px;
   padding-bottom: 30px;
@@ -94,18 +94,18 @@ body {
   padding-right: 60px; }
 
 table {
-  font-family: _latolite;
+  font-family: _latoreg;
   font-size: 12pt; }
 
 td {
-  font-family: _latolite;
+  font-family: _latoreg;
   padding: 5px; }
 
 thead {
   font-family: _nuni; }
 
 .pdflink {
-  font-family: _latolite;
+  font-family: _latoreg;
   font-size: 12pt;
   color: #3aafa9; }
 
@@ -115,10 +115,10 @@ thead {
   color: #3aafa9; }
 
 .weblink{
-  font-family: _latolite; }
+  font-family: _latoreg; }
 
 a {
-  font-family: _latolite;
+  font-family: _latoreg;
   color: #000000;
   font-size: 12pt; 
   text-decoration: none; }
@@ -133,7 +133,7 @@ topheader {
   color: #453354; }
 
 subheader {
-  font-family: _latolite; 
+  font-family: _latoreg; 
   color: #000000;
   font-size: 12pt;
   line-height: 1.4;
@@ -153,19 +153,19 @@ subsection {
   font-size: 18px; }
 
 papertitle {
-  font-family: _latolite;
+  font-family: _latoreg;
   font-size: 12pt;
   line-height: 1.2;
   color: #453354; }
 
 journal {
-  font-family: _latolite;
+  font-family: _latoreg;
   font-size: 12pt;
   line-height: 1.2;
   color: #000000; }
 
 maintext {
-  font-family: _latolite;
+  font-family: _latoreg;
   font-size: 12pt;
   line-height: 1.2;
   color: #000000; }
