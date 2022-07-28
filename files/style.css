@@ -86,7 +86,7 @@ nuni {
   font-family: _nuni; }
 
 body {
-  font-family: _latoreg;
+  font-family: _latolite;
   font-size: 12pt;
   padding-top: 30px;
   padding-bottom: 30px;
@@ -94,31 +94,31 @@ body {
   padding-right: 60px; }
 
 table {
-  font-family: _nuni;
+  font-family: _latolite;
   font-size: 12pt; }
 
 td {
-  font-family: _nuni;
+  font-family: _latolite;
   padding: 5px; }
 
 thead {
   font-family: _nuni; }
 
 .pdflink {
-  font-family: _latoreg;
+  font-family: _latolite;
   font-size: 12pt;
   color: #3aafa9; }
 
 .ssrnlink {
-  font-family: _latoreg;
+  font-family: _latolite;
   font-size: 12pt;
   color: #3aafa9; }
 
 .weblink{
-  font-family: _latoreg; }
+  font-family: _latolite; }
 
 a {
-  font-family: _latoreg;
+  font-family: _latolite;
   color: #000000;
   font-size: 12pt; 
   text-decoration: none; }
@@ -147,24 +147,24 @@ section {
   color: #453354; }
 
 subsection {
-  font-family: _latoreg;
+  font-family: _latolite;
   margin-top: 12pt;
   line-height: 1.4;
   font-size: 18px; }
 
 papertitle {
-  font-family: _latoreg;
+  font-family: _latolite;
   font-size: 12pt;
   line-height: 1.4;
   color: #453354; }
 
 journal {
-  font-family: _latoreg;
+  font-family: _latolite;
   font-size: 12pt;
   color: #000000; }
 
 maintext {
-  font-family: _latoreg;
+  font-family: _latolite;
   font-size: 12pt;
   color: #000000; }
 
