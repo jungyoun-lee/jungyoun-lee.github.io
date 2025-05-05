@@ -1,86 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Jung Youn Lee</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather&display=swap" rel="stylesheet">
 
-<html>
-	<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127111640-2"></script>
-	<script>
-  		window.dataLayer = window.dataLayer || [];
-  		function gtag(){dataLayer.push(arguments);}
-  		gtag('js', new Date());
+  <!-- Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-127111640-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-127111640-2');
+  </script>
 
-  		gtag('config', 'UA-127111640-2');
-	</script>	
-	<title>Jung Youn Lee</title>
-	<link rel="stylesheet" type="text/css" href="files/style.css">
+  <!-- Styling -->
+  <style>
+    body {
+      margin: 0;
+      padding: 2rem;
+      font-family: 'Lato', sans-serif;
+      background-color: #fdfdfd;
+      color: #333;
+    }
+
+    .container {
+      max-width: 960px;
+      margin: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+    }
+
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .text {
+      max-width: 600px;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+    }
+
+    .subheader {
+      font-size: 1rem;
+      line-height: 1.6;
+      margin-bottom: 1rem;
+    }
+
+    section {
+      font-size: 1.4rem;
+      font-weight: bold;
+      margin-top: 2rem;
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 0.3rem;
+    }
+
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    li {
+      margin-bottom: 1.2rem;
+    }
+
+    .papertitle {
+      font-weight: bold;
+      font-size: 1.1rem;
+    }
+
+    .papertext {
+      font-family: 'Merriweather', serif;
+      font-size: 0.95rem;
+    }
+
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .profile-img {
+      max-width: 230px;
+      height: auto;
+      border-radius: 8px;
+    }
+  </style>
 </head>
 
-<body><center>
-<table style="width: 60%;" class="sflinks">
-	<tbody>
-		<tr>
-			<td>
-				<topheader>Jung Youn Lee</topheader>
-				<subheader>  
-					<br> I am an Assistant Professor of Marketing at Rice University, Jones Graduate School of Business. My research interests lie broadly on the social and distributional consequences of firm and government policy, with a particular interest in the consumer credit market as an empirical setting. My research utilizes a range of data sources from various domains to understand how consumer data, fairness constraints, and consumers’ privacy preferences shape credit market outcomes. 
-					<br><br> <tt style="cursor: default; font-family: _latoreg; font-size: 12pt; color: #000000;">Email: jungyoun.lee[at]rice.edu</tt>
-					<br><br> <a class="ssrnlink" target="_blank" href="files/cv.pdf">Curriculum Vitae<br> 
-					</span>
-				</subheader>
-			</td>
-			<td style="text-align: center;"> 
-				<img src="files/mycopyleft.png" style="width: 230px;">
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			
-			<br><br>
-				
-				
-			<section>Published and Forthcoming Papers</section>
-				<ul>
-					<li style="margin-bottom: 8px"> <papertitle>Using Grocery Data for Credit Decisions</papertitle>
-					<a class="pdflink" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3868547">[PDF]</a>
-					<br><maintext>with Joonhyuk Yang and Eric T. Anderson, <b><em>Management Science (2025)</em></b></maintext>
-					<br> <maintext>Honorable Mention, Alden G. Clayton Doctoral Dissertation Proposal Competition, 2021</maintext>
-					</li>
+<body>
+  <div class="container">
+    <header>
+      <div class="text">
+        <h1>Jung Youn Lee</h1>
+        <div class="subheader">
+          I am an Assistant Professor of Marketing at Rice University, Jones Graduate School of Business. My research interests lie broadly in the social and distributional consequences of firm and government policy, with a particular interest in the consumer credit market. I use data from various domains to understand how consumer data, fairness constraints, and privacy preferences shape credit market outcomes.
+          <br><br>
+          <span>Email: jungyoun.lee[at]rice.edu</span>
+          <br><br>
+          <a href="files/cv.pdf" target="_blank">Curriculum Vitae</a>
+        </div>
+      </div>
+      <img class="profile-img" src="files/mycopyleft.png" alt="Profile Photo">
+    </header>
 
-				</ul>
+    <section>Published and Forthcoming Papers</section>
+    <ul>
+      <li>
+        <div class="papertitle">Using Grocery Data for Credit Decisions</div>
+        <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3868547">[PDF]</a><br>
+        <div class="papertext">with Joonhyuk Yang and Eric T. Anderson, <b><em>Management Science (2025)</em></b></div>
+        <div class="papertext">Honorable Mention, Alden G. Clayton Doctoral Dissertation Proposal Competition, 2021</div>
+      </li>
 
-				<ul>
-					<li style="margin-bottom: 8px"> <papertitle>Properties of Alternative Data for Fairer Credit Risk Predictions</papertitle>
-					<a class="ssrnlink" target="_blank" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4602450">[SSRN]</a>
-					<br><maintext>with Joonhyuk Yang, <b><em>Data-Centric Machine Learning Research (2024)</em></b></maintext>
-					</li>
-				</ul>
-				
-				<ul>
-					<li style="margin-bottom: 8px"> <papertitle>Commercial Success through Commercials? Advertising and Pay TV Operators</papertitle>
-					<a class="pdflink" href="files/dbs.pdf">[PDF]</a>
-					<br><maintext>with Pradeep K. Chintagunta and Joonhyuk Yang, <b><em>Journal of Marketing Research (2021)</em></b></maintext>
-					</li>
-				</ul>
+      <li>
+        <div class="papertitle">Properties of Alternative Data for Fairer Credit Risk Predictions</div>
+        <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4602450" target="_blank">[SSRN]</a><br>
+        <div class="papertext">with Joonhyuk Yang, <b><em>Data-Centric Machine Learning Research (2024)</em></b></div>
+      </li>
 
-				<br>
-	
-			<section>Working Papers</section>
-				<ul>
-					<li style="margin-bottom: 8px"> 
-						<papertitle>Who Benefits from Alternative Data for Credit Scoring? Evidence from Peru</papertitle>
-						<a class="ssrnlink" target="_blank" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4852032">[SSRN]</a>
-						<br> <maintext>with Joonhyuk Yang and Eric T. Anderson</maintext>
-						<br> <maintext>Conditional Accept at <b><em>Journal of Marketing Research</em></b></maintext>
-					</li>
-				</ul>
+      <li>
+        <div class="papertitle">Commercial Success through Commercials? Advertising and Pay TV Operators</div>
+        <a href="files/dbs.pdf">[PDF]</a><br>
+        <div class="papertext">with Pradeep K. Chintagunta and Joonhyuk Yang, <b><em>Journal of Marketing Research (2021)</em></b></div>
+      </li>
+    </ul>
 
-
-			<p></p> 
-				
-			</td>
-		</tr>
-	</tbody>
-</table>
-</center>
+    <section>Working Papers</section>
+    <ul>
+      <li>
+        <div class="papertitle">Who Benefits from Alternative Data for Credit Scoring? Evidence from Peru</div>
+        <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4852032" target="_blank">[SSRN]</a><br>
+        <div class="papertext">with Joonhyuk Yang and Eric T. Anderson</div>
+        <div class="papertext">Conditional Accept at <b><em>Journal of Marketing Research</em></b></div>
+      </li>
+    </ul>
+  </div>
 </body>
-
 </html>
