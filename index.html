@@ -28,11 +28,30 @@
       color: #333;
     }
     .container {
-      max-width: 960px;
+      max-width: 720px;
       margin: auto;
       display: flex;
       flex-direction: column;
       gap: 2rem;
+    }
+
+    @media (max-width: 768px) {
+      .container {
+        padding: 1.2rem;
+        max-width: 100%;
+      }
+    
+      body {
+        font-size: 0.95rem;
+      }
+    
+      .papertitle {
+        font-size: 1rem;
+      }
+    
+      .papertext {
+        font-size: 0.9rem;
+      }
     }
 
     header {
